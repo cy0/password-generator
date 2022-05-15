@@ -5,4 +5,4 @@
 3. ls
 4. cd password-generator 
 5. python3 password_generator.py
-6.
+
